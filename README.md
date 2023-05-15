@@ -17,9 +17,11 @@ Using this bus seat booking system, the passenger can reserve seats in a desired
 1) Admin Login- The admin can use this to log in to the software.
 2) Start Booking- Users can log in to the software using this option.
 3) Update Data- Functional requirements-
-1. The system must be able to enter bus details. 4)Select your bus code- Functional requirements-
-1.The system must be able to provide a list of buses.
-2.The system must be able to search buses by date.
+              1. The system must be able to enter bus details.
+             
+4)Select your bus code- Functional requirements
+              1.The system must be able to provide a list of buses.
+              2.The system must be able to search buses by date.
 
 ![image](https://github.com/Madushan996/Bus_Booking_System/assets/92347012/a3c2f6e5-db7d-4bef-8d42-4a3e9c636f12)
 ![image](https://github.com/Madushan996/Bus_Booking_System/assets/92347012/3ad21251-5d8e-46d7-aac2-76dcb5b9b9ce)
